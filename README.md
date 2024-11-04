@@ -31,3 +31,9 @@ A API utiliza ML.NET para fornecer recomendações de produtos, baseando-se nas 
 2. Execute `dotnet restore` para restaurar as dependências.
 3. Execute `dotnet run` para iniciar a aplicação.
 4. Acesse a API em `http://localhost:5000/api/products`.
+
+Leonardo Buonanno RM98315
+Victor Fusco RM552399
+Matheus Da Silva Ferreira RM552431
+Lucas de Lavor RM552426
+Henrrique Ferreira Cardoso RM552325
